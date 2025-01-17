@@ -7,7 +7,25 @@
 faucet is here
 https://faucet.solana.com/
 
-# 1 create a initialize function
+# 1 set the environment
+
+## 1 create a project
+
+`npm init -y`
+
+## 2 create a file
+
+`touch agent.ts`
+
+## 3 create a dotenv file
+
+```
+OPENAI_API_KEY=
+RPC_URL=https://api.devnet.solana.com
+SOLANA_PRIVATE_KEY=
+```
+
+# 2 create a initialize function
 
 ## 1 create an outline
 
@@ -105,7 +123,7 @@ return createReactAgent({
   });
 ```
 
-# 2 create a runChat function
+# 3 create a runChat function
 
 ## 1 create an outline and execute it
 
