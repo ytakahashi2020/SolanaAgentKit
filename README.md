@@ -1,8 +1,11 @@
-0 Preparation
+# 0 Preparation
 
-## 1 OpenAI API Key
+### 1 OpenAI API Key
 
-## 2 Solana wallet address with test token
+### 2 Solana wallet address with test token
+
+faucet is here
+https://faucet.solana.com/
 
 # 1 create a initialize function
 
