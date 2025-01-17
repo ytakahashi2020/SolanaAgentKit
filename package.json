@@ -1,0 +1,22 @@
+{
+  "name": "solanaagentkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/core": "^0.3.30",
+    "@langchain/langgraph": "^0.2.40",
+    "@langchain/openai": "^0.3.17",
+    "esrun": "^3.2.26",
+    "messages": "link:@langchain/core/messages",
+    "prebuild": "link:@langchain/langgraph/prebuild",
+    "prebuilt": "link:@langchain/langgraph/prebuilt",
+    "solana-agent-kit": "^1.4.0"
+  }
+}
