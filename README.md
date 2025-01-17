@@ -7,6 +7,8 @@
 faucet is here
 https://faucet.solana.com/
 
+### 3 install pnpm
+
 # 1 set the environment
 
 ## 1 create a project
